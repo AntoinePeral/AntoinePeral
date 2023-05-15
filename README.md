@@ -46,7 +46,7 @@ Web Developper
 
 ### My GitHub Stats
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoinePeral&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=AntoinePeral&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;" align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePeral&layout=donut)](https://github.com/AntoinePeral/github-readme-stats)
 
