@@ -46,8 +46,8 @@ Web Developper
 
 ### My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntoinePeral)](https://git.io/streak-stats)
-
 ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoinePeral&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePeral&layout=donut)](https://github.com/AntoinePeral/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntoinePeral)](https://git.io/streak-stats)
