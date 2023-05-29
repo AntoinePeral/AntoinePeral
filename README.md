@@ -52,10 +52,4 @@ I used to be a banker, now I turn developer ! 🎉
 
 <p align="left"> <a href="https://www.github.com/AntoinePeral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/antoine-peral/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AntoinePeral&amp;show_icons=true&amp;theme=transparent" style="max-width: 100%;" align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePeral&layout=donut)](https://github.com/AntoinePeral/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AntoinePeral)](https://git.io/streak-stats)
