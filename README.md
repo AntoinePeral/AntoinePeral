@@ -10,7 +10,6 @@ I'm Antoine Peral
 
 I used to be a banker, now I turn developer ! 🎉
 
-* 🖥️  See my portfolio at [MyPortfolio](http://antoine-peral.me/)
 * ✉️  You can contact me at [peral.antoine@gmail.com](mailto:peral.antoine@gmail.com)
 * 🧠  I'm learning React
 
